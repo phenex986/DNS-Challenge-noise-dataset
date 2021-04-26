@@ -1,15 +1,15 @@
 # DNS-Challenge-noise-dataset
-Install librosa
+1.Install librosa
 
-  pip install librosa
+    pip install librosa
 
-Install Git Large File Storage for faster download of the datasets.
+2.Install Git Large File Storage for faster download of the datasets.
 
-  git lfs install
+    git lfs install
 
-  git lfs track "*.wav"
+    git lfs track "*.wav"
 
-  git add .gitattributes
+    git add .gitattributes
 
-Clone the repository.
-  git clone 
+3.Clone the repository.
+    git clone 
