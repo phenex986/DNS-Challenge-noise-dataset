@@ -12,4 +12,6 @@
     git add .gitattributes
 
 3.Clone the repository.  
-    git clone https://github.com/phenex986/DNS-Challenge-noise-dataset.git
+        git clone https://github.com/phenex986/DNS-Challenge-noise-dataset.git  
+    
+      
